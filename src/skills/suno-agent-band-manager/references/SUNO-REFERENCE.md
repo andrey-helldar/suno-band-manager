@@ -310,8 +310,6 @@ The Exclude Styles field is a dedicated exclusion input separate from the style 
 | `[Reprise]` | A return to an earlier section, often the chorus or intro theme |
 | `[Coda]` | An extended ending or **epilogue** section. This can prompt Suno to add a concluding musical phase beyond the last chorus/outro |
 
-
-
 **Bridge vs Breakdown:** Bridge gives you something NEW (new chords, perspective). Breakdown gives you LESS (strips arrangement). Need both? Use `[Bridge | Half-Time]` + `[Energy: stripped, minimal]`.
 
 ### Dual Voices — Known Limitation
